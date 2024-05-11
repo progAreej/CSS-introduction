@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+table{
+    border-spacing:20px;
+}
+td{
+    text-align: center;
+    font-size: xx-large;
+    padding: 20px 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(49, 48, 48);
+    
+}

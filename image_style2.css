@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    
+}
+.body{
+    height: 600px;
+    padding: 10px;
+    width: 35%;
+    background-color: rgb(235, 235, 161);
+    border-right:5px solid black ;
+}
+.paragraph{
+    float: inline-start;
+    width: 200px;
+    background-color: rgb(207, 198, 198);
+    padding: 10px;
+    margin: 10px;
+}
+ 
+.big_paragraph{
+    font-weight: bold;
+    font-size: medium;
+    width: 750px;
+    height: 120px;
+    overflow: auto;
+    border-top:5px solid  black ;
+    border-bottom:5px solid  black ;
+}
